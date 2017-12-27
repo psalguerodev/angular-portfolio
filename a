@@ -1,0 +1,26 @@
+* [33m4759bcb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Modificaciones Minimas
+* [33md95add5[m Cambios en Info Page
+* [33m038139b[m Nuevos Cambios PRD
+* [33m4764ad7[m Se agrega el index root
+* [33m8a81707[m Se agrega la carpeta Docs
+* [33madbdfbf[m Cambio en el Titulo
+* [33m1b59fbb[m Fixed Error en Compilacion 1 - Prd
+* [33m78a880b[m Se agrega el buscador de Productos
+* [33m1813fe6[m Se agrega la carga de cada item - imaganes
+* [33m5736a9d[m Se agrega la ruta valida para cada Item de Producto - Parametro
+* [33m147faab[m Se agrega los productos en la Pagina Home desde Firebase
+* [33m2a3d90c[m Se agrega Servicio para Productos Firebase
+* [33m9539e90[m Se cambia la foto del About
+* [33md8ac72c[m Se modificacion la pagina About
+* [33mc178ec0[m Se agrega la carga de la informacion del team con Firebase
+* [33m47f8d23[m Se cambia de lugar
+* [33mebb0618[m Se agrega animaciones de animate.css
+* [33m78b110b[m Se modifica el menu de Navegacion
+* [33m6ee3d85[m Fixed errores
+* [33m91862cd[m Corrigiendo Menu de Navegación y Footer
+* [33m06e9f58[m Cambio ruta defecto
+* [33ma9536bf[m Se agrega rutas basicas del Portafolio
+* [33m5316814[m Se agrega la pagina Item - Detalle
+* [33m3b56a20[m Se crea la pagina About
+* [33m6624b61[m Estructura del Proyecto - Home
+* [33m5081831[m chore: initial commit from @angular/cli
